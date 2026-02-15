@@ -69,7 +69,7 @@ CONTROLLER_ADVERTISEMENT_PERIOD = 0.5  # seconds, upper bound on adverts
 CONTROLLER_CONNECTION_DELAY = 5  # seconds, expected upper bound based on tests
 NEVERMORE_SERIAL_BAUDRATE_DEFAULT = 115200
 
-NEVERMORE_SERVO_PERIOD = 1 / 50
+NEVERMORE_SERVO_PERIOD = 1 / 10
 
 # Derived constants
 # must cover at least 2-3 advert periods
